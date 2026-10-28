@@ -1,2 +1,4 @@
 # H-Bridges
-This repository includes files of my exploration from Masterclass #1. In this masterclass I worked togther with Ava to control a motor using BLE bluetooth with our phones, 2 Arduino's communicating with each other, buttons and potentiometers.
+This repository includes files of my exploration from Masterclass #3. In this masterclass I worked alone to:
+- Design an PCB board. This board was designed as an Arduino Hat, for a H-Bridge circuit that controls 2 motors.
+- Made a prototype, cardboard box buggy motorized with this circuit.
